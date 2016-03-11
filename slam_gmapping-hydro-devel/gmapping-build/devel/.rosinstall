@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/angel/catkin_ws/src/slam_gmapping-hydro-devel/gmapping-build/devel/setup.sh
